@@ -1,7 +1,7 @@
 #steps
 
 ser lo más preciso
-´´´sh
+```sh
 cd game
 python3 main.py
-´´´
+```
